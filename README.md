@@ -2,6 +2,10 @@
 
 Add fancy animated typing GIF introductions to your GitHub README.
 
+## Demo
+
+![Matrix Rain Intro](https://raw.githubusercontent.com/hrishikeshrt/hrishikeshrt/main/hrishikeshrt_matrix_rain.gif)
+
 ## Steps
 
 * Fork the repository
@@ -9,8 +13,6 @@ Add fancy animated typing GIF introductions to your GitHub README.
 * Launch local server using `npm run serve`
 * Record using a GIF recording software (e.g. [Peek](https://github.com/phw/peek))
 * Add to your `README.md`
-
-[Demo](https://github.com/hrishikeshrt/hrishikeshrt/)
 
 ## Project setup
 ```
